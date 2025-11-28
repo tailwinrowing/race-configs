@@ -1,0 +1,9 @@
+{
+    "scraperConfig": {
+        "parserType": "GOOGLE_SHEETS",
+        "spreadsheetId": "1R_frQAuz_IQfUVUr8YqayZPt03FiObRXan0mpiqSQDQ",
+        "sheetName": "Sheet1",
+        "headerRowIndex": 3,
+        "postProcessorFile": "./calcup2025.js"
+    }
+}
