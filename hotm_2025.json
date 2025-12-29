@@ -1,0 +1,7 @@
+{
+  "raceName": "Men's V8 Grand Final",
+  "targetUrl": "https://newwebrole2023.azurewebsites.net/breeze/BreezeApi/GetScopedRaceFlights?raceId=21383&scopeStartTime=2025-10-25T07%3A00%3A00.000Z&scopeEndTime=2025-10-26T06%3A59%3A59.999Z",
+  "scraperConfig": {
+    "parserType": "HERENOW_JSON"
+  }
+}

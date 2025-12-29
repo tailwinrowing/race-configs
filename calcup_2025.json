@@ -3,7 +3,16 @@
         "parserType": "GOOGLE_SHEETS",
         "spreadsheetId": "1R_frQAuz_IQfUVUr8YqayZPt03FiObRXan0mpiqSQDQ",
         "sheetName": "Sheet1",
-        "headerRowIndex": 3,
+        "headerRowIndex": 5,
         "postProcessorFile": "./calcup2025.js"
+    },
+    "scheduleConfig": {
+        "parserType": "GOOGLE_SHEETS",
+        "postProcessorFile": "./longBeachSchedule.js",
+        "sheetName": "Sheet1",
+        "spreadsheetId": "1-aTT9eMX49i1_T3UHOTG8eAzN65PQo8HLGH_hRQKLP8",
+        "headerRowIndex": 6,
+        "eventIndex": "c",
+        "timeIndex": "b"
     }
 }

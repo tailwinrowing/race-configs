@@ -1,0 +1,18 @@
+{
+    "scraperConfig": {
+        "parserType": "GOOGLE_SHEETS",
+        "spreadsheetId": "17ncXjfaURpFkV2xGgfbQmKizRVDleS8Ga7b4bJyp4jE",
+        "sheetName": "Sheet1",
+        "startIndex": 1,
+        "postProcessorFile": "./cycTesting.js"
+    },
+    "scheduleConfig": {
+        "parserType": "GOOGLE_SHEETS",
+        "postProcessorFile": "./cycSchedule.js",
+        "sheetName": "Sheet2",
+        "spreadsheetId": "17ncXjfaURpFkV2xGgfbQmKizRVDleS8Ga7b4bJyp4jE",
+        "startIndex": 1,
+        "eventIndex": "a",
+        "timeIndex": "b"
+    }
+}

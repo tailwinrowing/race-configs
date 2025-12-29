@@ -1,0 +1,6 @@
+{
+    "scraperConfig": {
+        "parserType": "CLOCKCASTER",
+        "targetUrl": "https://clockcaster.com/e/67"
+    }
+}
